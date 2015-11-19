@@ -1,2 +1,2 @@
 # nwjs-demos
-Demos of [NW.js].
+Demos of [NW.js](http://nwjs.io/).
